@@ -1,0 +1,22 @@
+{
+  "fileFormatVersion": 1,
+  "clientSchemaVersion": 1,
+  "serverSchemaVersion": 3,
+  "publishedDefaultPageName": "Page1",
+  "unpublishedDefaultPageName": "Page1",
+  "invisibleActionFields": {},
+  "editModeTheme": {
+    "name": "Classic",
+    "displayName": "Classic",
+    "isSystemTheme": true,
+    "deleted": false
+  },
+  "publishedTheme": {
+    "name": "Classic",
+    "displayName": "Classic",
+    "isSystemTheme": true,
+    "deleted": false
+  },
+  "publishedLayoutmongoEscapedWidgets": {},
+  "unpublishedLayoutmongoEscapedWidgets": {}
+}
