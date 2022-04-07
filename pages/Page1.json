@@ -8,7 +8,7 @@
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 1296,
+          "rightColumn": 646,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
@@ -20,14 +20,14 @@
           "type": "CANVAS_WIDGET",
           "canExtend": true,
           "version": 54,
-          "minHeight": 740,
+          "minHeight": 920,
           "parentColumnSpace": 1,
           "dynamicBindingPathList": [],
           "leftColumn": 0,
           "children": [
             {
               "widgetName": "Button5",
-              "onClick": "{{postMessage(\"hi folks\",*,undefined)}}",
+              "onClick": "{{postMessage(\"helloooo\",*,undefined)}}",
               "buttonColor": "#03B365",
               "displayName": "Button",
               "iconSVG": "/static/media/icon.cca02633.svg",
