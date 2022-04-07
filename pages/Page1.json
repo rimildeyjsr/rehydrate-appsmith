@@ -27,7 +27,7 @@
           "children": [
             {
               "widgetName": "Button5",
-              "onClick": "{{postMessage(\"helloooo\",*,undefined)}}",
+              "onClick": "{{setInterval(() => { \n\tconsole.log('yay');\n}, 5000)}}",
               "buttonColor": "#03B365",
               "displayName": "Button",
               "iconSVG": "/static/media/icon.cca02633.svg",
