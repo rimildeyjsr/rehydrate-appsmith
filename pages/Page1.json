@@ -8,7 +8,7 @@
         "dsl": {
           "widgetName": "MainContainer",
           "backgroundColor": "none",
-          "rightColumn": 646,
+          "rightColumn": 1296,
           "snapColumns": 64,
           "detachFromLayout": true,
           "widgetId": "0",
@@ -27,7 +27,7 @@
           "children": [
             {
               "widgetName": "Button5",
-              "onClick": "{{setInterval(() => { \n\tconsole.log('yay');\n}, 5000)}}",
+              "onClick": "{{postMessage('hi','*')}}",
               "buttonColor": "#03B365",
               "displayName": "Button",
               "iconSVG": "/static/media/icon.cca02633.svg",
