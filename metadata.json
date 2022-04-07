@@ -4,7 +4,12 @@
   "serverSchemaVersion": 3,
   "publishedDefaultPageName": "Page1",
   "unpublishedDefaultPageName": "Page1",
-  "invisibleActionFields": {},
+  "invisibleActionFields": {
+    "Page1_Api1": {
+      "unpublishedUserSetOnLoad": false,
+      "publishedUserSetOnLoad": false
+    }
+  },
   "editModeTheme": {
     "name": "Classic",
     "displayName": "Classic",
