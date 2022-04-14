@@ -27,7 +27,7 @@
           "children": [
             {
               "widgetName": "Button5",
-              "onClick": "{{showAlert('k.jn')}}",
+              "onClick": "{{postMessageToTargetWindow('hi','*')}}",
               "buttonColor": "#03B365",
               "displayName": "Button",
               "iconSVG": "/static/media/icon.cca02633.svg",
